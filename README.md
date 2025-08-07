@@ -31,8 +31,7 @@ Google Fonts (Poppins) for better typography
 
 Clone the repository:
 
-git clone https://github.com/amjad-alii/Cryptocurrency-Price-Tracker-web-application
-
+git clone https://github.com/Deependu4161/Cryptocurrency-Price-Tracker.git
 Open index.html in your browser.
 
 Ensure you have an active internet connection to fetch live data.
